@@ -1,58 +1,123 @@
-<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hey 👋 What's Up? I'm Wahid Farhan</h1>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=450&lines=Full-Stack+Developer;Software+%26+Automation+Engineer;IoT+%26+Embedded+Systems;Content+Creator+%40+CodingVerse" alt="Typing SVG" />
+</p>
 
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs" height="47" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="47" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="47" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="47" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="47" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="47" alt="facebook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="47" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="47" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="47" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="47" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="47" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="47" alt="qt logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="47" alt="vscode logo"  />
+<p align="center">
+  <a href="https://github.com/wahidfarhan">
+    <img src="https://img.shields.io/github/followers/wahidfarhan?label=Followers&style=flat-square&color=8be9fd&logo=github&logoColor=black" alt="Followers" />
+  </a>
+  <a href="https://github.com/wahidfarhan">
+    <img src="https://img.shields.io/github/stars/wahidfarhan?style=flat-square&color=50fa7b&logo=github&logoColor=black" alt="Stars" />
+  </a>
+</p>
+
+---
+
+## ⚡ Quick About Me:
+- 💻 **Main Focus**: Crafting high-performance web applications and automation engines.
+- 🎓 **Studies**: Computer Science & Engineering.
+- 🚀 **Current Project**: [Universal Cloud Print System (UCPS)](https://github.com/wahidfarhan/UniversalPrinter) - A cloud-spooled campus printing platform.
+- 🍕 **Fueled By**: Coffee, clean code, and a curious mind.
+- 💬 **Ask me about**: JavaScript, Python, Automation Scripts, or Arduino circuits!
+
+---
+
+## 🌐 Connect With Me:
+
+<div align="center">
+  <a href="https://linkedin.com/in/farhanwahid" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="28" alt="linkedin" />
+  </a>
+  <a href="https://youtube.com/@@CodingVerse-Farhan" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="28" alt="youtube" />
+  </a>
+  <a href="https://facebook.com/Farhan.Wahid.21" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="28" alt="facebook" />
+  </a>
+  <a href="https://instagram.com/mdfarhan6521" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="28" alt="instagram" />
+  </a>
+  <a href="https://discord.gg/nocode" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="28" alt="discord" />
+  </a>
+  <a href="mailto:farhanrahman1985@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="28" alt="email" />
+  </a>
 </div>
 
-###
+---
 
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+## 💻 Tech Stack & Skills:
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,py,c,cpp,html,css,js,php,qt,vscode,linux" height="52" alt="Tech Stack Icons" />
 </div>
 
-###
+---
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=wahidfarhan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/wahidfarhan/wahidfarhan/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+## 📊 Performance & Analytics:
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://streak-stats.demolab.com?user=wahidfarhan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=8" height="165" alt="Streak Graph" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://github-profile-trophy.vercel.app/?username=wahidfarhan&theme=dracula&no-bg=false&no-frame=false" height="165" alt="Trophy Graph" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wahidfarhan&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&border_radius=8" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahidfarhan&theme=dracula&include_all_commits=true&count_private=true&layout=compact&border_radius=8" alt="Top Languages" width="48%" />
+</p>
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wahidfarhan/wahidfarhan/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wahidfarhan/wahidfarhan/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wahidfarhan/wahidfarhan/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wahidfarhan&theme=react-dark&bg_color=282a36&color=ff79c6&line=8be9fd&point=50fa7b&area=true&hide_border=true" alt="Contribution Graph" width="98%" />
+</p>
 
-###
+---
+
+## 🎮 Contribution Activity (Pacman):
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wahidfarhan/wahidfarhan/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wahidfarhan/wahidfarhan/pacman-output/pacman-contribution-graph.svg?game=pacman">
+    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/wahidfarhan/wahidfarhan/pacman-output/pacman-contribution-graph.svg?game=pacman" width="100%">
+  </picture>
+</p>
+
+---
+
+### 🎥 Latest Videos on CodingVerse:
+<p align="left">
+  <a href="https://youtube.com/@@CodingVerse-Farhan" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Watch%20My%20Channel-red?style=for-the-badge&logo=youtube&logoColor=white" alt="CodingVerse Channel" />
+  </a>
+</p>
+<ul>
+  <li>🔥 Development Tutorials</li>
+  <li>🛠️ Automation & Scripting Walkthroughs</li>
+  <li>🤖 IoT & Hardware Integrations</li>
+</ul>
+
+---
+
+### ✍️ Random Dev Quote:
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=wahidfarhan&icon=2&color=0" alt="Visitor Count" />
+  </a>
+</p>
